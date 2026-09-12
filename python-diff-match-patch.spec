@@ -20,5 +20,6 @@ to apply code edits.
 
 %files
 %doc README.md
+%license LICENSE
 %{py_sitedir}/diff_match_patch
 %{py_sitedir}/diff_match_patch-*.*-info
