@@ -1,6 +1,6 @@
 Name:		python-diff-match-patch
 Version:	20241021
-Release:	1
+Release:	2
 Summary:	Diff, match and patch algorithms for plain text
 License:	Apache-2.0
 Group:		Development/Python
